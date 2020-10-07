@@ -3,7 +3,7 @@ class TetrisRs < Formula
   homepage "https://github.com/k-vernooy/tetris"
   url "https://github.com/pnadon/tetris-rs/archive/0.1.tar.gz"
   version "0.1"
-  sha256 "9F840B925A0A04A78D4B19808EFE04004FC575153E3313560D1A3B2CCED7C4CB"
+  sha256 "327b2dda4d5a78cedf378df9e9bac4ce0fc3dfd705957ccfc75e2ede5fb18f58"
   license ""
 
   depends_on "rust" => :build
